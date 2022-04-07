@@ -1,15 +1,17 @@
 # Kurylo's Equipment List 
 
-(Last Updated: February 2022)
+(Last Updated: April 2022)
 
 # PC Setup
 - **CPU:** Ryzen 7 2700x (8 x 3.7 GHz)
 - **GPU:** AMD Radeon 8GB XFX 6600 XT
-- **Motherboard:** MSI B450M TOMAHAWK
+- **Motherboard:** MSI B450 GAMING PLUS MAX
 - **Cooling System:** be quiet! Dark Rock Pro 4
-- **RAM:** 32 GB (2 x 16) DDR4 GSkill 3600 MHz
+- **RAM:** 32 GB (2 x 16) DDR4 Corsair 3600 MHz
 - **PSU:** Corsair RM850 Modular 80+ Gold 850 Watt 
+- **M.2 SSD:** 1TB Gigabyte AORUS Gen4 7000s PCIe 4.0
 - **Case:** Sharkoon TG5
+
 
 ## Monitor
 - MSI Optix MAG271CR 144 Hz 27"
