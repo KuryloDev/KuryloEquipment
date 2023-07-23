@@ -1,8 +1,5 @@
 
-<p align="center">
-  <h1 align="center">Kurylo's Equipment List</h1>
-</p>
-
+# Kurylo's Equipment List
 (Last Updated: July 2023)
 
 ## PC Setup
