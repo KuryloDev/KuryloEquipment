@@ -1,6 +1,7 @@
+![Banner](Banner.png)
 
 # Kurylo's Equipment List
-(Last Updated: July 2023)
+(Last Updated: September 2023)
 
 ## PC Setup
     CPU: Ryzen 7 2700x (8 x 3.7 GHz)
@@ -68,6 +69,11 @@
     Cooling System: be quiet! Pure Loop 120mm All-in-One
     PSU: be quiet! Straight Power 11 Modular 80+ Platinum 550 Watt
     Case: PHANTEKS Evolv Shift 2 Mini-ITX
+
+### Phone: 
+    Primary: Samsung Galaxy ZFold 3 
+    Secondary: Samsung Galaxy Note 10 Lite
+
 ### Notes (Coming Soon):
  - Server will be rebuilt and coupled with a NAS system
  - Audio setup will include monitor speakers, however undecided which
