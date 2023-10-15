@@ -1,24 +1,28 @@
 ![Banner](Banner.png)
 
 # Kurylo's Equipment List
-(Last Updated: September 2023)
+(Last Updated: October 2023)
 
-## PC Setup
+## PC Setup 1
+    CPU: Ryzen 7 7800X3D (8 x 4.2 GHz)
+    GPU: AMD Radeon 12GB Yeston 6750 XT
+    RAM: 64 GB (4 x 16) DDR5 Corsair 6400 MHz
+    SSD: 1TB Gigabyte AORUS Gen4 7000s PCIe 4.0
+    SSD: 2TB LEXAR NM790 M.2 Gen4 PCIe 4.0
+
+    Motherboard: NZXT N7 B650E
+    Cooling System: Yeston Zeaginal Sakura 360
+    PSU: Corsair RM850 White Modular 80+ Gold 850 Watt 
+    Case: Hyte Y60
+## PC Setup 2
     CPU: Ryzen 7 2700x (8 x 3.7 GHz)
     GPU: AMD Radeon 8GB XFX 6600 XT
     RAM: 32 GB (2 x 16) DDR4 Corsair 3600 MHz
-    SSD: 1TB Gigabyte AORUS Gen4 7000s PCIe 4.0
 
     Motherboard: MSI B450 GAMING PLUS MAX
     Cooling System: be quiet! Dark Rock Pro 4
     PSU: Corsair RM850 Modular 80+ Gold 850 Watt 
     Case: Sharkoon TG5
-#### Shopping List (Upgrading Soon?): 
-    CPU: AMD Ryzen 9 7900X (12x 4.70 GHz)
-    RAM: 64 GB (4 x 16) DDR5 Corsair 6400 MHz
-
-    Motherboard: MSI MEG X670E ACE
-    Cooling System: MSI MPG CoreLiquid K240 
 ### Monitors
     MSI Optix MAG271CR 144 Hz 27"
     LC-M24-FHD-144-C-V2 144 Hz 24"
