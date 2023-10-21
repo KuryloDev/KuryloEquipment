@@ -24,13 +24,9 @@
     PSU: Corsair RM850 Modular 80+ Gold 850 Watt 
     Case: Sharkoon TG5
 ### Monitors
-    MSI Optix MAG271CR 144 Hz 27"
+    Samsung Smart Odyssey G6 240 Hz 32"
     LC-M24-FHD-144-C-V2 144 Hz 24"
     Samsung C24F390 60 Hz 24"
-#### Shopping List (Upgrading Soon?): 
-    BenQ ZOWIE XL2566K 360 Hz 24.5" 
-    BenQ EW3270U 60 Hz 32" 
-    BenQ EW3270U 60 Hz 32"
 ## Audio Setup
     Microphone: Røde NT1A
     Microphone Arm: Røde PSA1
